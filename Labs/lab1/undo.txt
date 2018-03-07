@@ -1,0 +1,5 @@
+lm to show directories
+cd [directory name]
+to delete files you use rm
+to delete directories you use rmdr
+cd .. to go back to main directory
